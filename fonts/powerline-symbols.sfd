@@ -4,27 +4,34 @@ FullName: PowerlineSymbols
 FamilyName: PowerlineSymbols
 Weight: Medium
 Copyright: Created with FontForge 2.0 (http://fontforge.sf.net)
-UComments: "2012-12-17: Created." 
+UComments: "2012-12-17: Created."
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 1638
 Descent: 410
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 0 "Back"  1
-Layer: 1 0 "Fore"  0
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
 XUID: [1021 211 26716215 11183012]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1355758773
-ModificationTime: 1355865048
+ModificationTime: 1476727357
+PfmFamily: 17
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 184
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 184
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -36,20 +43,21 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: UnicodeBmp
-Compacted: 1
+LangName: 1033
+Encoding: Original
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 31 16
+WinInfo: 0 32 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 8
+TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 19 19
 
 StartChar: uniE0A0
-Encoding: 57504 57504 0
+Encoding: 0 57504 0
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -84,7 +92,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0A1
-Encoding: 57505 57505 1
+Encoding: 1 57505 1
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -114,7 +122,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0A2
-Encoding: 57506 57506 2
+Encoding: 2 57506 2
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -156,7 +164,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0B0
-Encoding: 57520 57520 3
+Encoding: 3 57520 3
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -170,7 +178,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0B1
-Encoding: 57521 57521 4
+Encoding: 4 57521 4
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -187,7 +195,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0B2
-Encoding: 57522 57522 5
+Encoding: 5 57522 5
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -201,7 +209,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE0B3
-Encoding: 57523 57523 6
+Encoding: 6 57523 6
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -218,7 +226,7 @@ EndSplineSet
 EndChar
 
 StartChar: block
-Encoding: 9608 9608 7
+Encoding: 7 9608 7
 Width: 1060
 Flags: HW
 LayerCount: 2
@@ -229,6 +237,203 @@ SplineSet
  1060 -375 l 1
  0 -375 l 1
  0 1950 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF100000
+Encoding: 8 9472 8
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-385 496 m 1
+ -385 668 l 1
+ 1646 668 l 1
+ 1646 496 l 1
+ -385 496 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF010000
+Encoding: 9 9484 9
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ 696 496 l 1
+ 696 -618 l 1
+ 536 -618 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF030000
+Encoding: 10 9488 10
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 496 l 1
+ -20 496 l 1
+ -20 668 l 1
+ 696 668 l 1
+ 696 -618 l 1
+ 536 -618 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF020000
+Encoding: 11 9492 11
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 496 m 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ 536 496 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF040000
+Encoding: 12 9496 12
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-20 496 m 1
+ -20 668 l 1
+ 536 668 l 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 496 l 1
+ -20 496 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF080000
+Encoding: 13 9500 13
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ 696 496 l 1
+ 696 -618 l 1
+ 536 -618 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF090000
+Encoding: 14 9508 14
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 496 l 1
+ -20 496 l 1
+ -20 668 l 1
+ 536 668 l 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 -618 l 1
+ 536 -618 l 1
+EndSplineSet
+EndChar
+
+StartChar: NameMe.16
+Encoding: 15 9516 15
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 496 l 1
+ -20 496 l 1
+ -20 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ 696 496 l 1
+ 696 -618 l 1
+ 536 -618 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF070000
+Encoding: 16 9524 16
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-20 496 m 1
+ -20 668 l 1
+ 536 668 l 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ -20 496 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF050000
+Encoding: 17 9532 17
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+696 496 m 1
+ 696 -618 l 1
+ 536 -618 l 1
+ 536 496 l 1
+ -20 496 l 1
+ -20 668 l 1
+ 536 668 l 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 668 l 1
+ 1253 668 l 1
+ 1253 496 l 1
+ 696 496 l 1
+EndSplineSet
+EndChar
+
+StartChar: SF110000
+Encoding: 18 9474 18
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+536 -618 m 1
+ 536 1992 l 1
+ 696 1992 l 1
+ 696 -618 l 1
+ 536 -618 l 1
 EndSplineSet
 EndChar
 EndChars
